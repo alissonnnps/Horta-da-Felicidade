@@ -4,7 +4,7 @@ Inclui tabelas, inserções e consultas SQL completas.
 
 **## Estrutura:**
 - `Projeto Horta.sql` ---> Criação do banco e consultas
-- `Diagrama sem nome.jpg` ---> Diagrama do modelo lógico
+- `Horta da Felicidade (Mini mundo).png` ---> Diagrama do modelo lógico
 
 **## 💻 Tecnologias usadas:**
 - MySQL
